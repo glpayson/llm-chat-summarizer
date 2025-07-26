@@ -1,0 +1,16 @@
+{previous_summary or seed_description}
+
+New conversation section:
+{current_chunk}
+
+Create a summary that:
+
+1. Preserves the emotional journey and how feelings evolved
+2. Captures key insights, decisions, and questions explored
+3. Maintains important factual details and timeline updates
+4. Tracks how perspectives and priorities shift over time
+5. Notes significant developments in relationships or situations mentioned
+6. Includes 2-3 direct quotes that capture the person's voice or crucial moments
+7. Preserves any action items, plans, or decisions made
+
+Write the summary as a flowing narrative that maintains both practical details and emotional nuance. Aim for 1300 words. Focus on continuity - how thoughts and situations build on previous ones.
